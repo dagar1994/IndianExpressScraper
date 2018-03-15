@@ -3,19 +3,19 @@ Python script to scrape the indianexpress.com sports section
 
 Return Data format and fields:
 
-==================================================================================
+================================================================================== <br />
 
-currentArticleData = {
-                        "date" :  Date on which article was published,
-                        "title" : Title of the article,
-                        "link" :  web link of the article,
-                        "shortInfo" : Short info of the article,
-                        "imageSource" :  image source URL,
-                        "alternateImageText" :  Alternate text if image in not available,
-                        "sport" : Sport with which Article is related,
-                        "info" : Article Text,
-                        "imageCaption" : caption under the image on the site,
-                        "source" : "www.indianexpress.com"
-                        }
+currentArticleData = {<br />
+                        "date" :  Date on which article was published,<br />
+                        "title" : Title of the article,<br />
+                        "link" :  web link of the article,<br />
+                        "shortInfo" : Short info of the article,<br />
+                        "imageSource" :  image source URL,<br />
+                        "alternateImageText" :  Alternate text if image in not available,<br />
+                        "sport" : Sport with which Article is related,<br />
+                        "info" : Article Text,<br />
+                        "imageCaption" : caption under the image on the site,<br />
+                        "source" : "www.indianexpress.com"<br />
+                        }<br />
 
-==================================================================================
+==================================================================================<br />
